@@ -12,13 +12,17 @@ Our mission is to make healthcare information **understandable and accessible to
 
 ## 👥 Team Members
 
-| Role | Name |
-|------|------|
-| Captain | Mohd Zaheeruddin |
-| Vice Captain | Suman Suhan |
-| Team Member | Subiya Mahveen |
-| Team Member | Syed Amaan Hussani |
-| Team Member | Humayun Attar |
+
+### IS'D Team Members
+
+| Role           | Name                 | GitHub ID                                   |
+|----------------|--------------------|--------------------------------------------|
+| Captain        | Mohd Zaheeruddin     | [@MohdZaheeruddin](https://github.com/Mdzaheerjk) |
+| Vice Captain   | Suman Suhan          | [@SumanSuhan](https://github.com/SumanSuhan1902-netizen)           |
+| Team Member    | Subiya Mahveen       | [@SubiyaMahveen](https://github.com/SubiyaMahveen)     |
+| Team Member    | Syed Amaan Hussani   | [@SyedAmaanHussani](https://github.com/SyedAmaanHussani) |
+| Team Member    | Humayun Attar        | [@HumayunAttar](https://github.com/HumayunAttar)       |
+
 
 ---
 

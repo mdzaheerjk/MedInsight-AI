@@ -17,7 +17,7 @@ Our mission is to make healthcare information **understandable and accessible to
 | Captain | Mohd Zaheeruddin |
 | Vice Captain | Suman Suhan |
 | Team Member | Subiya Mahveen |
-| Team Member | Syed Aman Hussani |
+| Team Member | Syed Amaan Hussani |
 | Team Member | Humayun Attar |
 
 ---

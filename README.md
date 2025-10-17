@@ -1,4 +1,4 @@
-# MedInsight AI
+# MedInsight AI 🧠🩺
 
 **Tagline:** AI That Reads, Explains, and Tracks Your Health Reports — Accessible Anytime, Anywhere
 

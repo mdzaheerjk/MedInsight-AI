@@ -34,7 +34,8 @@ Our mission is to make healthcare information **understandable and accessible to
 # Visual Medical Assistant
 [Try it here](https://visual--medical--assistant.streamlit.app/)
 
-
+# Lifestyle & Diet Advisor
+[Try it here](https://lifestyle-diet-advisor.streamlit.app/)
 
 
 

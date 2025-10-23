@@ -37,6 +37,10 @@ Our mission is to make healthcare information **understandable and accessible to
 # Lifestyle & Diet Advisor
 [Try it here](https://lifestyle-diet-advisor.streamlit.app/)
 
+# Medical Symptom Analyzer
+[Try it here](https://medical-system-analyzer.streamlit.app/)
+
+
 
 
 

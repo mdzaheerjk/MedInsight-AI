@@ -26,7 +26,6 @@ Our mission is to make healthcare information **understandable and accessible to
 
 ---
 
-
 # Prescription OCR App
 [Try it here](https://prescriptionocr.streamlit.app/)
 
